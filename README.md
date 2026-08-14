@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="170" alt="Foto Zefri Al Rizqullah"/>
+<img src="./img/profile.jpg" width="170" alt="Foto Zefri Al Rizqullah"/>
 
 <h1>Hi, I'm Zefri Al Rizqullah 👋</h1>
 

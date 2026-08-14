@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Zefri Al Rizqullah Banner"/>
-
-<br><br>
-
 <img src="./assets/profile.png" width="170" alt="Foto Zefri Al Rizqullah"/>
 
 <h1>Hi, I'm Zefri Al Rizqullah 👋</h1>
@@ -19,8 +15,8 @@ Saat ini saya terus belajar, membangun project, dan meningkatkan kemampuan sebag
 <a href="mailto:zefalriz@gmail.com">
   <img src="https://img.shields.io/badge/Email-zefalriz%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://instagram.com/zefalriz_">
-  <img src="https://img.shields.io/badge/Instagram-@zefalriz__-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/zefalriz/">
+  <img src="https://img.shields.io/badge/Instagram-@zefalriz_-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
 

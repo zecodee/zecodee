@@ -28,7 +28,7 @@ Saat ini saya terus belajar, membangun project, dan meningkatkan kemampuan sebag
 
 ## 👨‍💻 About Me
 
-```javascript
+```
 const zefri = {
   name: "Zefri Al Rizqullah",
   role: "Junior Programmer",
@@ -197,7 +197,7 @@ Tech Stack:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/zecodee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 

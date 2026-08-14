@@ -171,9 +171,9 @@ Tech Stack:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zecodee&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecodee&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 <br>
 
@@ -215,7 +215,7 @@ Saya terbuka untuk belajar, berdiskusi, berbagi pengalaman, dan berkolaborasi da
 zefalriz@gmail.com
 
 📷 **Instagram**  
-[@zefalriz_](https://instagram.com/zefalriz_)
+[@zefalriz_](https://instagram.com/zefalriz/)
 
 📞 **Phone**  
 +62 813-1612-0091
@@ -226,7 +226,7 @@ zefalriz@gmail.com
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=zecodee&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 

@@ -181,7 +181,7 @@ Tech Stack:
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=zecodee&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -191,7 +191,7 @@ Tech Stack:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zecodee&theme=github_dark" width="100%" alt="Profile Summary"/>
 
 </div>
 
@@ -201,7 +201,7 @@ Tech Stack:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 

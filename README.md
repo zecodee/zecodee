@@ -7,8 +7,7 @@
 <h3>Junior Programmer • Web Developer • Tech Enthusiast</h3>
 
 <p>
-Saya tertarik pada pengembangan web, software, UI/UX, database, dan Artificial Intelligence.
-Saat ini saya terus belajar, membangun project, dan meningkatkan kemampuan sebagai developer.
+Saya adalah mahasiswa aktif di Universitas Mulawarman yang memiliki <i>passion</i> mendalam pada pengembangan web. Saya memadukan desain estetika modern dengan struktur kode yang kokoh.
 </p>
 
 <p>

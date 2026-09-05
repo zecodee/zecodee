@@ -2,9 +2,9 @@
 
 <img src="./img/profile.jpg" width="170" alt="Foto Zefri Al Rizqullah"/>
 
-<h1>Hi, I'm Zefri Al Rizqullah 👋</h1>
+<h1>Hi, I'm Zefri Al Rizqullah 😈</h1>
 
-<h3>Junior Programmer • Web Developer • Tech Enthusiast</h3>
+<h3>Junior Programmer • Web Developer • Student College</h3>
 
 <p>
 Saya adalah mahasiswa aktif di Universitas Mulawarman yang memiliki <i>passion</i> mendalam pada pengembangan web. Saya memadukan desain estetika modern dengan struktur kode yang kokoh.
@@ -36,8 +36,7 @@ const zefri = {
   interests: [
     "Web Development",
     "Software Development",
-    "UI/UX Design",
-    "Database",
+    "Database System",
     "Artificial Intelligence"
   ],
 
@@ -56,7 +55,6 @@ Saat ini saya fokus memperkuat fundamental programming, membangun personal proje
 
 - 💻 Meningkatkan kemampuan programming
 - 🌐 Mengembangkan website dan aplikasi web
-- 🎨 Mempelajari UI/UX
 - 🗄️ Memperdalam database
 - 🤖 Mengeksplorasi Artificial Intelligence
 - 🧠 Melatih problem solving
@@ -94,7 +92,6 @@ Saat ini saya fokus memperkuat fundamental programming, membangun personal proje
 |---|---|
 | Web Development | Frontend & Backend |
 | Software Engineering | Application Development |
-| UI/UX Design | Modern Interface Design |
 | Database | MySQL & Data Management |
 | Artificial Intelligence | AI Fundamentals & Implementation |
 

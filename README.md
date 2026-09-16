@@ -1,237 +1,94 @@
 <div align="center">
 
-<img src="./img/profile.jpg" width="170" alt="Foto Zefri Al Rizqullah"/>
+<p><code>zecodee@github ~ $ ./maintainer.sh</code></p>
 
-<h1>Hi, I'm Zefri Al Rizqullah 😈</h1>
-
-<h3>Junior Programmer • Web Developer • Student College</h3>
-
-<p>
-Saya adalah mahasiswa aktif di Universitas Mulawarman yang memiliki <i>passion</i> mendalam pada pengembangan web. Saya memadukan desain estetika modern dengan struktur kode yang kokoh.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="zeycodee animated maintainer system scan" />
+</picture>
 </p>
-
-<p>
-<a href="mailto:zefalriz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-zefalriz%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.instagram.com/zefalriz/">
-  <img src="https://img.shields.io/badge/Instagram-@zefalriz_-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Programmer;Web+Development+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG"/>
-
 </div>
 
----
+<h2>Why I build in public</h2>
 
-## 👨‍💻 About Me
-
-```
-const zefri = {
-  name: "Zefri Al Rizqullah",
-  role: "Junior Programmer",
-  location: "Indonesia 🇮🇩",
-
-  interests: [
-    "Web Development",
-    "Software Development",
-    "Database System",
-    "Artificial Intelligence"
-  ],
-
-  currentFocus: "Learning, Building, Improving",
-  motto: "Code. Learn. Build. Repeat."
-};
-```
-
-Saya suka mempelajari teknologi baru dan mengubah ide menjadi aplikasi yang dapat digunakan.
-
-Saat ini saya fokus memperkuat fundamental programming, membangun personal project, dan memperluas pengalaman dalam pengembangan aplikasi modern.
-
----
-
-## 🚀 What I'm Doing
-
-- 💻 Meningkatkan kemampuan programming
-- 🌐 Mengembangkan website dan aplikasi web
-- 🗄️ Memperdalam database
-- 🤖 Mengeksplorasi Artificial Intelligence
-- 🧠 Melatih problem solving
-- 📦 Membangun personal project dan portfolio
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark" alt="Languages"/>
-
-<br><br>
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,figma&theme=dark" alt="Tools"/>
-
-<br><br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-| Topic | Focus |
-|---|---|
-| Web Development | Frontend & Backend |
-| Software Engineering | Application Development |
-| Database | MySQL & Data Management |
-| Artificial Intelligence | AI Fundamentals & Implementation |
-
----
-
-## 📂 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Project One
-
-Website modern dan responsif yang dikembangkan sebagai bagian dari proses belajar Web Development.
-
-Tech Stack:
-
-`HTML` `CSS` `JavaScript`
-
-<a href="#">View Repository →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Project Two
-
-Aplikasi berbasis web untuk melatih implementasi sistem, database, dan backend development.
-
-Tech Stack:
-
-`PHP` `MySQL` `Bootstrap`
-
-<a href="#">View Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Project Three
-
-Project desain UI/UX dengan fokus pada tampilan modern, sederhana, dan mudah digunakan.
-
-Tech Stack:
-
-`Figma` `UI/UX`
-
-<a href="#">View Project →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Project Four
-
-Eksperimen sederhana menggunakan Python dan Artificial Intelligence.
-
-Tech Stack:
-
-`Python` `AI`
-
-<a href="#">View Repository →</a>
-
-</td>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Jupyter Notebook</code> · <code>PHP</code> · <code>HTML</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>12 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>90 contributions · 26 active days</p></td>
 </tr>
 </table>
 
----
+<p>Mahasiswa Universitas Mulawarman | Fakultas Teknik | Sistem Informasi</p>
 
-## 📊 GitHub Statistics
+<h2>Open-source toolbox</h2>
 
-<div align="center">
+<p><code>zecodee@github ~ $ toolbox --list</code></p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zecodee&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="zeycodee open-source technology toolbox" />
+</picture>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecodee&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>Jupyter Notebook</strong><br /><sub>82%</sub></td>
+<td width="17%" align="center"><strong>PHP</strong><br /><sub>7%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>Blade</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>Java</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
 
-<br>
+<h2>Repositories worth exploring</h2>
 
-<img src="https://streak-stats.demolab.com?user=zecodee&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&repos=zecodee%2FCloneYoutube%2Czecodee%2Fe-commerce%2Czecodee%2FMini_project_pinjol_DDP%2Czecodee%2Fperpustakaan%2Czecodee%2Fsimulasi-csgo-shop&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&repos=zecodee%2FCloneYoutube%2Czecodee%2Fe-commerce%2Czecodee%2FMini_project_pinjol_DDP%2Czecodee%2Fperpustakaan%2Czecodee%2Fsimulasi-csgo-shop&v=oss-projects-1&mode=dark" width="860" alt="zeycodee maintainer repositories" />
+</picture>
+</p>
 
-</div>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/e-commerce">e-commerce</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/Mini_project_pinjol_DDP">Mini_project_pinjol_DDP</a></h3><p>Mini Project Python dari Mata Kuliah Dasar-Dasar Pemrograman (DDP)</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/perpustakaan">perpustakaan</a></h3><p>Projek ini dibuat untuk menjadi syarat penyelesaian dan mendapatkan sertifikasi BNSP bidang &quot;Pemrogram Junior&quot;</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/simulasi-csgo-shop">simulasi-csgo-shop</a></h3><p>Simulasi Sederhana CS:GO Shop berbentuk program berbahasa Python</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Contribution activity</h2>
 
-## 📈 Profile Summary
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="zeycodee open-source signal" />
+</picture>
+</p>
 
-<div align="center">
+<h2>Contribution trail</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zecodee&theme=github_dark" width="100%" alt="Profile Summary"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="zeycodee contribution trail" />
+</picture>
+</p>
 
-</div>
+<hr />
 
----
+<h2>Contribute together</h2>
 
-## 🐍 Contribution Activity
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zecodee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Saya terbuka untuk belajar, berdiskusi, berbagi pengalaman, dan berkolaborasi dalam project teknologi.
-
-<br><br>
-
-📧 **Email**  
-zefalriz@gmail.com
-
-📷 **Instagram**  
-[@zefalriz_](https://instagram.com/zefalriz/)
-
-📞 **Phone**  
-+62 813-1612-0091
-
-<br><br>
-
-### `Open to Learn • Open to Build • Open to Collaborate`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=zecodee&style=for-the-badge&color=grey&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-`Code • Learn • Build • Repeat`
-
-</div>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="zeycodee community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/zecodee">GitHub</a></p>
+<p align="center"><sub>zeycodee · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

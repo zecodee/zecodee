@@ -1,95 +1,167 @@
 <div align="center">
 
-<p><code>welcome to my github, Zecodee</code></p>
-<!-- <p><code>zecodee@github ~ $ ./maintainer.sh</code></p> -->
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=00d9ff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="zeycodee animated maintainer system scan" />
-</picture>
-</p>
 </div>
 
-<h2>Why I build in public</h2>
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" height="120" style="border-radius:50%;border:2px solid #00d9ff;"/>
+
+<h2>@zecodee</h2>
+
+<!-- ANIMATED TYPING NAME -->
+<a href="https://github.com/zecodee">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Zecodee;Developer+Handal;Instagram:+@zefalriz" alt="Typing SVG" />
+</a>
+
+Mahasiswa Universitas Mulawarman | Fakultas Teknik | Program Studi Sistem Informasi
+
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-0f2027?style=for-the-badge&logo=python&logoColor=00D9FF)
+![PHP](https://img.shields.io/badge/-PHP-0f2027?style=for-the-badge&logo=php&logoColor=00D9FF)
+![Laravel](https://img.shields.io/badge/-Laravel-0f2027?style=for-the-badge&logo=laravel&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/-HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/-Java-0f2027?style=for-the-badge&logo=java&logoColor=00D9FF)
+
+<br/>
+
+> *"Situation will teach what is real meaning of life"*
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+zecodee@github ~ $ ./profile-scan --live
+```
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Laravel</code> · <code>PHP</code> · <code>Basic Frontend</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>12 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>90 contributions · 26 active days</p></td>
+<td width="50%" valign="top">
+
+### 🖼️ VISUAL.MAP
+<p align="center">
+  <img src="./img/img_zefry.png" width="100%" alt="Gambar profil / logo pribadi"/>
+</p>
+
+<p align="center"><i>"Turning ideas into real projects"</i></p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 SYSTEM.INFO
+
+| Field | Value |
+|---|---|
+| **Name** | Zefri Al Rizqullah |
+| **Handle** | @zecodee |
+| **Role** | Mahasiswa Universitas Mulawarman |
+| **Program** | Program Studi Sistem Informasi |
+| **Status** | Building \| Learning \| College |
+| **Languages** | PHP, Laravel, Java, JavaScript, HTML, CSS |
+| **Repositories** | 12 |
+| **Contributions** | 92 |
+| **Followers** | 3 |
+| **Following** | 5 |
+| **Contact** | github.com/zecodee |
+
+</td>
 </tr>
 </table>
 
-<p>Mahasiswa Universitas Mulawarman | Fakultas Teknik | Sistem Informasi</p>
+<br/>
 
-<h2>Open-source toolbox</h2>
+---
 
-<p><code>zecodee@github ~ $ toolbox --list</code></p>
+## 🌿 Repositories worth exploring
+*A collection of projects, experiments, and learning journeys.*
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="zeycodee open-source technology toolbox" />
-</picture>
-</p>
+<div align="center">
 
-<table width="100%">
+<!--
+  Ganti "USERNAME_GITHUB_ANDA" dan "NamaRepo" pada tiap kartu
+  dengan repo asli Anda. Kartu ini otomatis mengambil data dari GitHub.
+-->
+<table>
 <tr>
-<td width="17%" align="center"><strong>Laravel</strong><br /><sub>82%</sub></td>
-<td width="17%" align="center"><strong>PHP</strong><br /><sub>7%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>Blade</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>Java</strong><br /><sub>1%</sub></td>
+<td width="50%">
+<a href="https://github.com/zecodee/CloneYoutube">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=CloneYoutube&theme=dark&bg_color=0f2027&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/zecodee/e-commerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=e-commerce&theme=dark&bg_color=0f2027&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" width="100%"/>
+</a>
+</td>
 </tr>
-</table>
-
-<h2>Repositories worth exploring</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&repos=zecodee%2FCloneYoutube%2Czecodee%2Fe-commerce%2Czecodee%2FMini_project_pinjol_DDP%2Czecodee%2Fperpustakaan%2Czecodee%2Fsimulasi-csgo-shop&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&repos=zecodee%2FCloneYoutube%2Czecodee%2Fe-commerce%2Czecodee%2FMini_project_pinjol_DDP%2Czecodee%2Fperpustakaan%2Czecodee%2Fsimulasi-csgo-shop&v=oss-projects-1&mode=dark" width="860" alt="zeycodee maintainer repositories" />
-</picture>
-</p>
-
-<table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/e-commerce">e-commerce</a></h3><p>A public project looking for its next contributor.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/Mini_project_pinjol_DDP">Mini_project_pinjol_DDP</a></h3><p>Mini Project Python dari Mata Kuliah Dasar-Dasar Pemrograman (DDP)</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/perpustakaan">perpustakaan</a></h3><p>Projek ini dibuat untuk menjadi syarat penyelesaian dan mendapatkan sertifikasi BNSP bidang &quot;Pemrogram Junior&quot;</p><p><sub>PHP · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/zecodee/simulasi-csgo-shop">simulasi-csgo-shop</a></h3><p>Simulasi Sederhana CS:GO Shop berbentuk program berbahasa Python</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="50%">
+<a href="https://github.com/zecodee/Mini_project_pinjol_DDP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=Mini_project_pinjol_DDP&theme=dark&bg_color=0f2027&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/zecodee/perpustakaan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=perpustakaan&theme=dark&bg_color=0f2027&border_color=00d9ff&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" width="100%"/>
+</a>
+</td>
 </tr>
 </table>
 
-<h2>Contribution activity</h2>
+</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="zeycodee open-source signal" />
-</picture>
-</p>
+<br/>
 
-<h2>Contribution trail</h2>
+---
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="zeycodee contribution trail" />
-</picture>
-</p>
+## 📊 Contribution trail
+*Small commits make a big difference.*
 
-<hr />
+<div align="center">
 
-<h2>Contribute together</h2>
+<!-- Statistik GitHub otomatis (update sendiri, tidak perlu diedit manual) -->
+<img src="https://github-readme-stats.vercel.app/api?username=zecodee&show_icons=true&theme=dark&bg_color=0f2027&border_color=00d9ff&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zecodee&theme=dark&background=0f2027&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="48%"/>
 
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+<br/><br/>
 
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=zecodee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148941016%3Fu%3D701409c559bc432492c962eef68dd7ae29633038%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="zeycodee community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/zecodee">GitHub</a></p>
-<p align="center"><sub>Zefri Al Rizqullah</sub></p>
+<!-- Grafik kontribusi animasi (garis bergerak) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zecodee&theme=react-dark&bg_color=0f2027&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<!-- Snake game kontribusi (animated GIF) — lihat catatan setup di bawah -->
+<img src="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Contribute together
+*If the work is useful, open an issue, improve the docs, share a project, or start a conversation.*
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@zecodee-0f2027?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/zecodee)
+[![Email](https://img.shields.io/badge/Email-email%40anda.com-0f2027?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:zefalriz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nama%20Anda-0f2027?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/zefri-al-rizqullah-437680335)
+
+<br/><br/>
+
+*Thank you for visiting! ⭐ Keep learning, keep building, keep shipping.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</div>

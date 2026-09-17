@@ -1,0 +1,144 @@
+<!-- Scanline Laser Gradient -->
+<linearGradient id="scan-laser" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+  <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.35" />
+  <stop offset="100%" stop-color="#00f0ff" stop-opacity="0.9" />
+</linearGradient>
+
+<!-- Glowing Blur Filter -->
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+  <feGaussianBlur stdDeviation="4" result="blur" />
+  <feComposite in="SourceGraphic" in2="blur" operator="over" />
+</filter>
+
+<style>
+  @keyframes scanbeam {
+    0% { transform: translateY(0px); opacity: 0.2; }
+    50% { transform: translateY(370px); opacity: 1; }
+    100% { transform: translateY(0px); opacity: 0.2; }
+  }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 1; }
+  }
+  .laser-scan {
+    animation: scanbeam 4s ease-in-out infinite;
+  }
+  .pulse-live {
+    animation: pulse-dot 1.5s ease-in-out infinite;
+  }
+  .mono-text {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  }
+</style>
+
+
+<!-- macOS Buttons -->
+<circle cx="24" cy="20" r="5" fill="#ff5f56" />
+<circle cx="40" cy="20" r="5" fill="#ffbd2e" />
+<circle cx="56" cy="20" r="5" fill="#27c93f" />
+
+<!-- Terminal Path Title -->
+<text x="450" y="24" class="mono-text" font-size="12" font-weight="600" fill="#a0aec0" text-anchor="middle">
+  zecodee@github ~ $ ./profile-scan --live
+</text>
+
+<!-- Live Status Indicator -->
+<circle cx="820" cy="20" r="4" fill="#00f0ff" class="pulse-live" />
+<text x="832" y="24" class="mono-text" font-size="11" font-weight="700" fill="#00f0ff" letter-spacing="1">LIVE</text>
+
+
+<!-- Face matrix dots grid representation -->
+<circle cx="85" cy="75" r="2" fill="#00f0ff" opacity="0.7" /><circle cx="100" cy="75" r="2.5" fill="#00f0ff" opacity="0.9" /><circle cx="115" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="130" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="145" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="160" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="175" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="190" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="205" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="220" cy="75" r="3" fill="#00f0ff" opacity="1" /><circle cx="235" cy="75" r="2.5" fill="#00f0ff" opacity="0.9" /><circle cx="250" cy="75" r="2" fill="#00f0ff" opacity="0.7" />
+
+<!-- Eyes and brow area -->
+<circle cx="85" cy="110" r="2.5" fill="#00f0ff" opacity="0.8" /><circle cx="115" cy="110" r="3.5" fill="#00f0ff" opacity="1" /><circle cx="130" cy="110" r="1.5" fill="#00f0ff" opacity="0.4" /><circle cx="145" cy="110" r="2" fill="#00f0ff" opacity="0.6" /><circle cx="190" cy="110" r="3.5" fill="#00f0ff" opacity="1" /><circle cx="205" cy="110" r="1.5" fill="#00f0ff" opacity="0.4" /><circle cx="220" cy="110" r="2" fill="#00f0ff" opacity="0.6" /><circle cx="250" cy="110" r="2.5" fill="#00f0ff" opacity="0.8" />
+
+<!-- Nose and cheek lines -->
+<circle cx="100" cy="145" r="2" fill="#00f0ff" opacity="0.5" /><circle cx="160" cy="145" r="3" fill="#00f0ff" opacity="0.95" /><circle cx="175" cy="145" r="3" fill="#00f0ff" opacity="0.95" /><circle cx="235" cy="145" r="2" fill="#00f0ff" opacity="0.5" />
+<circle cx="167" cy="165" r="3.5" fill="#00f0ff" opacity="1" />
+
+<!-- Lips and jaw structure -->
+<circle cx="130" cy="195" r="2.5" fill="#00f0ff" opacity="0.8" /><circle cx="145" cy="195" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="160" cy="195" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="175" cy="195" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="190" cy="195" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="205" cy="195" r="2.5" fill="#00f0ff" opacity="0.8" />
+
+<!-- Shoulders and neck matrix -->
+<circle cx="50" cy="280" r="2" fill="#00f0ff" opacity="0.6" /><circle cx="65" cy="270" r="2.5" fill="#00f0ff" opacity="0.8" /><circle cx="80" cy="260" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="95" cy="250" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="110" cy="240" r="2.5" fill="#00f0ff" opacity="0.7" /><circle cx="225" cy="240" r="2.5" fill="#00f0ff" opacity="0.7" /><circle cx="240" cy="250" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="255" cy="260" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="270" cy="270" r="2.5" fill="#00f0ff" opacity="0.8" /><circle cx="285" cy="280" r="2" fill="#00f0ff" opacity="0.6" />
+
+<circle cx="40" cy="310" r="2" fill="#00f0ff" opacity="0.5" /><circle cx="55" cy="310" r="2.5" fill="#00f0ff" opacity="0.7" /><circle cx="70" cy="310" r="3" fill="#00f0ff" opacity="0.85" /><circle cx="85" cy="310" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="100" cy="310" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="235" cy="310" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="250" cy="310" r="3" fill="#00f0ff" opacity="0.9" /><circle cx="265" cy="310" r="3" fill="#00f0ff" opacity="0.85" /><circle cx="280" cy="310" r="2.5" fill="#00f0ff" opacity="0.7" /><circle cx="295" cy="310" r="2" fill="#00f0ff" opacity="0.5" />
+
+<!-- Matrix Background Grid Dots for texture -->
+<path d="M 50 100 Q 175 120 300 100" fill="none" stroke="#00f0ff" stroke-opacity="0.15" stroke-dasharray="2 8" stroke-width="2" />
+<path d="M 50 140 Q 175 160 300 140" fill="none" stroke="#00f0ff" stroke-opacity="0.15" stroke-dasharray="2 8" stroke-width="2" />
+<path d="M 50 180 Q 175 200 300 180" fill="none" stroke="#00f0ff" stroke-opacity="0.15" stroke-dasharray="2 8" stroke-width="2" />
+<path d="M 50 220 Q 175 240 300 220" fill="none" stroke="#00f0ff" stroke-opacity="0.15" stroke-dasharray="2 8" stroke-width="2" />
+
+
+<!-- Handle -->
+<g transform="translate(0, 123)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Handle</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">@zecodee</text>
+</g>
+
+<!-- Role -->
+<g transform="translate(0, 151)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Role</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">Mahasiswa Universitas Mulawarman |</text>
+</g>
+
+<!-- Status -->
+<g transform="translate(0, 179)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Status</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">Building | Learning | Shipping</text>
+</g>
+
+<!-- Languages -->
+<g transform="translate(0, 207)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Languages</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">Jupyter Notebook, PHP, Blade, HTML</text>
+</g>
+
+<!-- Repositories -->
+<g transform="translate(0, 235)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Repositories</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">12</text>
+</g>
+
+<!-- Contributions -->
+<g transform="translate(0, 263)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Contributions</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">92</text>
+</g>
+
+<!-- Stars -->
+<g transform="translate(0, 291)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Stars</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">0</text>
+</g>
+
+<!-- Followers -->
+<g transform="translate(0, 319)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Followers</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">3</text>
+</g>
+
+<!-- Active Days -->
+<g transform="translate(0, 347)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Active Days</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">27</text>
+</g>
+
+<!-- Contact -->
+<g transform="translate(0, 375)">
+  <text x="430" y="0" font-size="12" font-weight="600" fill="#00f0ff">Contact</text>
+  <line x1="550" y1="-4" x2="630" y2="-4" stroke="#00f0ff" stroke-dasharray="2 6" stroke-opacity="0.25" stroke-width="1.2" />
+  <text x="650" y="0" font-size="12" fill="#d1e0ff">github.com/zecodee</text>
+</g>

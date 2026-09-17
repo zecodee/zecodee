@@ -40,7 +40,7 @@ Mahasiswa Universitas Mulawarman | Fakultas Teknik | Program Studi Sistem Inform
 <div align="center">
 
 ```
-zecodee@github ~ $ ./profile-scan --live
+zecodee@github ~ $ ./profile-pict --deymm
 ```
 
 </div>
@@ -49,7 +49,7 @@ zecodee@github ~ $ ./profile-scan --live
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ VISUAL.MAP
+### 🖼️ My Picture
 <p align="center">
   <img src="./img/img_zefry.png" width="100%" alt="Gambar profil / logo pribadi"/>
 </p>
@@ -59,12 +59,12 @@ zecodee@github ~ $ ./profile-scan --live
 </td>
 <td width="50%" valign="top">
 
-### 📋 SYSTEM.INFO
+### 📋 My Information
 
 | Field | Value |
 |---|---|
 | **Name** | Zefri Al Rizqullah |
-| **Handle** | @zecodee |
+| **Username** | @zecodee |
 | **Role** | Mahasiswa Universitas Mulawarman |
 | **Program** | Program Studi Sistem Informasi |
 | **Status** | Building \| Learning \| College |
@@ -73,7 +73,7 @@ zecodee@github ~ $ ./profile-scan --live
 | **Contributions** | 92 |
 | **Followers** | 3 |
 | **Following** | 5 |
-| **Contact** | github.com/zecodee |
+| **Contact** | +6281316120091 |
 
 </td>
 </tr>
@@ -88,10 +88,6 @@ zecodee@github ~ $ ./profile-scan --live
 
 <div align="center">
 
-<!--
-  Ganti "USERNAME_GITHUB_ANDA" dan "NamaRepo" pada tiap kartu
-  dengan repo asli Anda. Kartu ini otomatis mengambil data dari GitHub.
--->
 <table>
 <tr>
 <td width="50%">

@@ -263,7 +263,7 @@ application flow, and programming fundamentals.
 
 *Every contribution tells a part of the journey.*
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -279,11 +279,7 @@ alt="GitHub Streak"
 
 <h3>🐍 Contribution Journey</h3>
 
-<p>
-Watch the snake travel through my GitHub contributions.
-</p>
-
-<br/>
+*Watch the snake travel through my GitHub contributions.*
 
 <picture>
 <source
@@ -313,30 +309,100 @@ alt="Zefri's GitHub Contribution Snake"
 
 <h2>🤝 Let's Connect</h2>
 
-*Feel free to explore my projects or start a conversation.*
+*Find me around the internet.*
 
 <br/><br/>
 
 <div align="center">
 
-<a href="https://github.com/zecodee">
-<img src="https://img.shields.io/badge/GitHub-@zecodee-789DBC?style=for-the-badge&logo=github&logoColor=white"/>
+<table>
+<tr>
+
+<td align="center" width="180">
+
+<a href="https://instagram.com/zefalriz">
+<img src="https://img.shields.io/badge/Instagram-@zefalriz-D4A373?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<sub>Follow my journey</sub>
+
+</td>
+
+
+<td align="center" width="180">
 
 <a href="mailto:zefalriz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-zefalriz-A8BBA3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<sub>Send me an email</sub>
+
+</td>
+
+
+<td align="center" width="180">
+
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
-<img src="https://img.shields.io/badge/LinkedIn-Zefri_Al_Rizqullah-A2D2DF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-A2D2DF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-*Thank you for visiting!*
+<sub>Professional network</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/zecodee">
+<img src="https://img.shields.io/badge/GitHub-@zecodee-789DBC?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6EACB,30:A8BBA3,65:A2D2DF,100:789DBC&height=120&section=footer" width="100%"/>
+---
+
+<!-- ==================== CLOSING ==================== -->
+
+<div align="center">
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=789DBC&center=true&vCenter=true&width=700&height=55&lines=Thank+you+for+visiting!;Keep+learning.+Keep+building.;See+you+around+%F0%9F%91%8B"
+alt="Closing Message"
+/>
+
+<br/>
+
+<code>zecodee@github ~ $ see-you-next-time</code>
+
+<br/><br/>
+
+<p>
+<i>Turning ideas into real projects, one commit at a time.</i>
+</p>
+
+<br/>
+
+<a href="#top">
+<img src="https://img.shields.io/badge/↑_BACK_TO_TOP-789DBC?style=for-the-badge"/>
+</a>
+
+<br/><br/><br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:F6EACB,30:A8BBA3,65:A2D2DF,100:789DBC&height=120&section=footer"
+width="100%"
+/>
 
 </div>

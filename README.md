@@ -309,61 +309,108 @@ alt="Zefri's GitHub Contribution Snake"
 
 <h2>🤝 Let's Connect</h2>
 
-*Find me around the internet.*
+<i>Find me around the internet.</i>
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="180">
+<td width="31%" align="center" valign="middle">
+
+<br/>
+
+<h3>@zefalriz</h3>
+
+<br/>
 
 <a href="https://instagram.com/zefalriz">
-<img src="https://img.shields.io/badge/Instagram-@zefalriz-D4A373?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img
+src="https://skillicons.dev/icons?i=instagram"
+width="65"
+height="65"
+alt="Instagram"
+/>
 </a>
+
+<br/><br/>
+
+<b>Instagram</b>
 
 <br/><br/>
 
 <sub>Follow my journey</sub>
 
+<br/><br/>
+
 </td>
 
+<td width="3%"></td>
 
-<td align="center" width="180">
+<td width="31%" align="center" valign="middle">
+
+<br/>
+
+<h3>zefalriz@gmail.com</h3>
+
+<br/>
 
 <a href="mailto:zefalriz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-zefalriz-A8BBA3?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img
+src="https://skillicons.dev/icons?i=gmail"
+width="65"
+height="65"
+alt="Gmail"
+/>
 </a>
+
+<br/><br/>
+
+<b>Gmail</b>
 
 <br/><br/>
 
 <sub>Send me an email</sub>
 
+<br/><br/>
+
 </td>
 
+<td width="3%"></td>
 
-<td align="center" width="180">
+<td width="31%" align="center" valign="middle">
+
+<br/>
+
+<h3>Let's Connect</h3>
+
+<br/>
 
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-A2D2DF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<img
+src="https://skillicons.dev/icons?i=linkedin"
+width="65"
+height="65"
+alt="LinkedIn"
+/>
 </a>
+
+<br/><br/>
+
+<b>LinkedIn</b>
 
 <br/><br/>
 
 <sub>Professional network</sub>
 
+<br/><br/>
+
 </td>
 
 </tr>
 </table>
-
-<br/>
-
-<a href="https://github.com/zecodee">
-<img src="https://img.shields.io/badge/GitHub-@zecodee-789DBC?style=flat-square&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -384,10 +431,6 @@ alt="Closing Message"
 
 <br/>
 
-<code>zecodee@github ~ $ see-you-next-time</code>
-
-<br/><br/>
-
 <p>
 <i>Turning ideas into real projects, one commit at a time.</i>
 </p>
@@ -398,7 +441,7 @@ alt="Closing Message"
 <img src="https://img.shields.io/badge/↑_BACK_TO_TOP-789DBC?style=for-the-badge"/>
 </a>
 
-<br/><br/><br/>
+<br/><br/>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:F6EACB,30:A8BBA3,65:A2D2DF,100:789DBC&height=120&section=footer"

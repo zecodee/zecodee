@@ -309,125 +309,66 @@ alt="Zefri's GitHub Contribution Snake"
 
 <h2>🤝 Let's Connect</h2>
 
-<i>Find me around the internet.</i>
-
-<br/><br/>
-
-<div align="center">
-
-<h3>Let's build something together.</h3>
-
-<sub>Choose a platform and say hello.</sub>
+*Find me around the internet.*
 
 <br/><br/><br/>
 
-<table width="75%">
-<tr>
+<div align="center">
 
-<!-- INSTAGRAM -->
+<code>zecodee@github ~ $ ./connect --available</code>
 
-<td width="33%" align="center" valign="middle">
+<br/><br/>
+
+<h3>Open for connections.</h3>
+
+<p>
+Let's create, learn, and share something meaningful.
+</p>
 
 <br/>
 
+<!-- SOCIAL ICONS VISUAL -->
+
+<img
+src="https://skillicons.dev/icons?i=instagram,gmail,linkedin&theme=dark"
+height="58"
+alt="Instagram, Gmail and LinkedIn"
+/>
+
+<br/><br/><br/>
+
+<!-- CLICKABLE SOCIAL BUTTONS -->
+
 <a href="https://instagram.com/zefalriz">
 <img
-src="https://skillicons.dev/icons?i=instagram"
-width="72"
+src="https://img.shields.io/badge/INSTAGRAM-@ZEFALRIZ-D4A373?style=for-the-badge&logo=instagram&logoColor=white"
 alt="Instagram"
 />
 </a>
-
-<br/><br/>
-
-<b>Instagram</b>
-
-<br/>
-
-<a href="https://instagram.com/zefalriz">
-<code>@zefalriz</code>
-</a>
-
-<br/><br/>
-
-<sub>Follow my journey</sub>
-
-<br/><br/>
-
-</td>
-
-
-<!-- GMAIL -->
-
-<td width="33%" align="center" valign="middle">
-
-<br/>
-
+&nbsp;
 <a href="mailto:zefalriz@gmail.com">
 <img
-src="https://skillicons.dev/icons?i=gmail"
-width="72"
+src="https://img.shields.io/badge/GMAIL-SAY_HELLO-A8BBA3?style=for-the-badge&logo=gmail&logoColor=0D1117"
 alt="Gmail"
 />
 </a>
-
-<br/><br/>
-
-<b>Gmail</b>
-
-<br/>
-
-<a href="mailto:zefalriz@gmail.com">
-<code>zefalriz</code>
-</a>
-
-<br/><br/>
-
-<sub>Send me a message</sub>
-
-<br/><br/>
-
-</td>
-
-
-<!-- LINKEDIN -->
-
-<td width="33%" align="center" valign="middle">
-
-<br/>
-
+&nbsp;
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
 <img
-src="https://skillicons.dev/icons?i=linkedin"
-width="72"
+src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-A2D2DF?style=for-the-badge&logo=linkedin&logoColor=0D1117"
 alt="LinkedIn"
 />
 </a>
 
 <br/><br/>
 
-<b>LinkedIn</b>
+<sub>
+Instagram · Email · Professional Network
+</sub>
 
-<br/>
+<br/><br/><br/>
 
-<a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
-<code>Zefri Al Rizqullah</code>
-</a>
-
-<br/><br/>
-
-<sub>Let's connect</sub>
-
-<br/><br/>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-<sub>Click an icon to connect ↗</sub>
+<code>zecodee@github ~ $ waiting-for-your-message...</code>
 
 <br/><br/>
 

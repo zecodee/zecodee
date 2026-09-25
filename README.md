@@ -9,11 +9,11 @@
 <h2>@zecodee</h2>
 
 <a href="https://github.com/zecodee">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=789DBC&center=true&vCenter=true&width=650&height=65&lines=Zefri+Al+Rizqullah;Information+Systems+Student;Learning+%7C+Building+%7C+Creating" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=789DBC&center=true&vCenter=true&width=650&height=65&lines=Zefri+Al+Rizqullah;Information+Systems+Student;Instagram:+%20+@zefalriz" alt="Typing SVG"/>
 </a>
 
 <p>
-Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
+Student College Mulawarman University
 </p>
 
 <img src="https://img.shields.io/badge/Python-789DBC?style=for-the-badge&logo=python&logoColor=ffffff"/>
@@ -37,17 +37,11 @@ Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
 
 <div align="center">
 
-<h2>👾 About Me</h2>
+<h2>About Me 😈</h2>
 
 <code>zecodee@github ~ $ ./profile-pict --deymm</code>
 
-<br/><br/>
-
-<img src="./img/geometry.gif" width="700" alt="Geometry Animation"/>
-
 </div>
-
-<br/>
 
 <!-- ==================== PROFILE ==================== -->
 
@@ -63,7 +57,7 @@ Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
 </p>
 
 <p align="center">
-<i>Turning ideas into real projects</i>
+*Turning ideas into real projects*
 </p>
 
 </td>
@@ -112,8 +106,6 @@ Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
 
 </table>
 
-<br/>
-
 <h3 align="center">🚀 Explore More</h3>
 
 <p align="center">
@@ -143,34 +135,57 @@ Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
 </tr>
 </table>
 
-<br/>
+<img src="./img/geometry.gif" width="100%" alt="Geometry Animation"/>
 
 ---
 
-<!-- ==================== REPOSITORIES ==================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-<h2>🌿 Repositories worth exploring</h2>
+<h2>🌿 Featured Projects</h2>
 
-*A collection of projects, experiments, and learning journeys.*
+*A selection of projects I've built while learning, experimenting, and creating.*
 
-<br/><br/>
+<br/>
 
 <table width="100%">
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<h3>🎬 Clone YouTube</h3>
+
+<p>
+A YouTube interface clone created to practice modern web development
+and responsive user interface design.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-D4A373?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-789DBC?style=flat-square&logo=css&logoColor=white"/>
+</p>
 
 <a href="https://github.com/zecodee/CloneYoutube">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=CloneYoutube&bg_color=0D1117&title_color=789DBC&text_color=C9D1D9&icon_color=A8BBA3&border_color=789DBC" width="100%"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-789DBC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<h3>🛒 E-Commerce</h3>
+
+<p>
+An e-commerce project developed to explore product management,
+web interfaces, and application development.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Web-A2D2DF?style=flat-square&logo=googlechrome&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Project-A8BBA3?style=flat-square&logo=github&logoColor=0D1117"/>
+</p>
 
 <a href="https://github.com/zecodee/e-commerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=e-commerce&bg_color=0D1117&title_color=A2D2DF&text_color=C9D1D9&icon_color=D4A373&border_color=A2D2DF" width="100%"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-A2D2DF?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
@@ -178,26 +193,65 @@ Mahasiswa Universitas Mulawarman • Fakultas Teknik • Sistem Informasi
 </tr>
 
 <tr>
+<td colspan="2">
+<br/>
+</td>
+</tr>
 
-<td width="50%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💸 Mini Project Pinjol</h3>
+
+<p>
+A programming mini project created to implement fundamental
+programming concepts and application logic.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Programming-A8BBA3?style=flat-square&logo=codeforces&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/College_Project-F6EACB?style=flat-square&logo=bookstack&logoColor=0D1117"/>
+</p>
 
 <a href="https://github.com/zecodee/Mini_project_pinjol_DDP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=Mini_project_pinjol_DDP&bg_color=0D1117&title_color=A8BBA3&text_color=C9D1D9&icon_color=789DBC&border_color=A8BBA3" width="100%"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-A8BBA3?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<h3>📚 Perpustakaan</h3>
+
+<p>
+A library management project designed to practice data management,
+application flow, and programming fundamentals.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Management-D4A373?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project-789DBC?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 <a href="https://github.com/zecodee/perpustakaan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zecodee&repo=perpustakaan&bg_color=0D1117&title_color=D4A373&text_color=C9D1D9&icon_color=A2D2DF&border_color=D4A373" width="100%"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-D4A373?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/zecodee?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <br/>
 

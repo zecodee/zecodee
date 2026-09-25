@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   generate:
     permissions:
@@ -16,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: zecodee
           outputs: |

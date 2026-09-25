@@ -315,102 +315,59 @@ alt="Zefri's GitHub Contribution Snake"
 
 <div align="center">
 
-<table width="100%">
-<tr>
-
-<td width="31%" align="center" valign="middle">
-
-<br/>
-
-<h3>@zefalriz</h3>
-
-<br/>
-
 <a href="https://instagram.com/zefalriz">
 <img
 src="https://skillicons.dev/icons?i=instagram"
-width="65"
-height="65"
+width="58"
 alt="Instagram"
 />
 </a>
 
-<br/><br/>
-
-<b>Instagram</b>
-
-<br/><br/>
-
-<sub>Follow my journey</sub>
-
-<br/><br/>
-
-</td>
-
-<td width="3%"></td>
-
-<td width="31%" align="center" valign="middle">
-
-<br/>
-
-<h3>zefalriz@gmail.com</h3>
-
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:zefalriz@gmail.com">
 <img
 src="https://skillicons.dev/icons?i=gmail"
-width="65"
-height="65"
+width="58"
 alt="Gmail"
 />
 </a>
 
-<br/><br/>
-
-<b>Gmail</b>
-
-<br/><br/>
-
-<sub>Send me an email</sub>
-
-<br/><br/>
-
-</td>
-
-<td width="3%"></td>
-
-<td width="31%" align="center" valign="middle">
-
-<br/>
-
-<h3>Let's Connect</h3>
-
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
 <img
 src="https://skillicons.dev/icons?i=linkedin"
-width="65"
-height="65"
+width="58"
 alt="LinkedIn"
 />
 </a>
 
 <br/><br/>
 
-<b>LinkedIn</b>
+<a href="https://instagram.com/zefalriz">
+<img src="https://img.shields.io/badge/@zefalriz-D4A373?style=flat-square&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:zefalriz@gmail.com">
+<img src="https://img.shields.io/badge/zefalriz@gmail.com-A8BBA3?style=flat-square&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
+<img src="https://img.shields.io/badge/Zefri_Al_Rizqullah-A2D2DF?style=flat-square&logoColor=0D1117"/>
+</a>
 
 <br/><br/>
 
-<sub>Professional network</sub>
-
-<br/><br/>
-
-</td>
-
-</tr>
-</table>
+<sub>
+Instagram &nbsp;&nbsp; • &nbsp;&nbsp;
+Email &nbsp;&nbsp; • &nbsp;&nbsp;
+LinkedIn
+</sub>
 
 </div>
 

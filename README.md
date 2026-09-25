@@ -261,24 +261,46 @@ application flow, and programming fundamentals.
 
 <h2>📊 Contribution Trail</h2>
 
-*Small commits make a big difference.*
+*Every contribution tells a part of the journey.*
 
 <br/><br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zecodee&theme=transparent&background=00000000&border=789DBC&stroke=A2D2DF&ring=D4A373&fire=D4A373&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A8BBA3&sideLabels=A2D2DF&dates=aaaaaa" width="70%" alt="GitHub Streak"/>
+<h3>🔥 GitHub Streak</h3>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=zecodee&theme=transparent&background=00000000&border=789DBC&stroke=A2D2DF&ring=D4A373&fire=D4A373&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A8BBA3&sideLabels=A2D2DF&dates=aaaaaa"
+width="70%"
+alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zecodee&bg_color=0D1117&color=A2D2DF&line=789DBC&point=F6EACB&area=true&area_color=A8BBA3&hide_border=true" width="100%" alt="Contribution Graph"/>
+<h3>🐍 Contribution Journey</h3>
 
-<br/><br/>
+<p>
+Watch the snake travel through my GitHub contributions.
+</p>
+
+<br/>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/zecodee/zecodee/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Zefri's GitHub Contribution Snake"
+/>
 </picture>
 
 </div>

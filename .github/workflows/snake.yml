@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: zecodee
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23D4A373&color_dots=%23EBEDF0,%23F6EACB,%23A8BBA3,%23A2D2DF,%23789DBC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F6EACB&color_dots=%23161B22,%23789DBC,%23A2D2DF,%23A8BBA3,%23D4A373
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

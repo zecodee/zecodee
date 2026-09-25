@@ -311,67 +311,127 @@ alt="Zefri's GitHub Contribution Snake"
 
 <i>Find me around the internet.</i>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
+
+<h3>Let's build something together.</h3>
+
+<sub>Choose a platform and say hello.</sub>
+
+<br/><br/><br/>
+
+<table width="75%">
+<tr>
+
+<!-- INSTAGRAM -->
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
 
 <a href="https://instagram.com/zefalriz">
 <img
 src="https://skillicons.dev/icons?i=instagram"
-width="58"
+width="72"
 alt="Instagram"
 />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
+
+<b>Instagram</b>
+
+<br/>
+
+<a href="https://instagram.com/zefalriz">
+<code>@zefalriz</code>
+</a>
+
+<br/><br/>
+
+<sub>Follow my journey</sub>
+
+<br/><br/>
+
+</td>
+
+
+<!-- GMAIL -->
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
 
 <a href="mailto:zefalriz@gmail.com">
 <img
 src="https://skillicons.dev/icons?i=gmail"
-width="58"
+width="72"
 alt="Gmail"
 />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
+
+<b>Gmail</b>
+
+<br/>
+
+<a href="mailto:zefalriz@gmail.com">
+<code>zefalriz</code>
+</a>
+
+<br/><br/>
+
+<sub>Send me a message</sub>
+
+<br/><br/>
+
+</td>
+
+
+<!-- LINKEDIN -->
+
+<td width="33%" align="center" valign="middle">
+
+<br/>
 
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
 <img
 src="https://skillicons.dev/icons?i=linkedin"
-width="58"
+width="72"
 alt="LinkedIn"
 />
 </a>
 
 <br/><br/>
 
-<a href="https://instagram.com/zefalriz">
-<img src="https://img.shields.io/badge/@zefalriz-D4A373?style=flat-square&logoColor=white"/>
-</a>
+<b>LinkedIn</b>
 
-&nbsp;&nbsp;
-
-<a href="mailto:zefalriz@gmail.com">
-<img src="https://img.shields.io/badge/zefalriz@gmail.com-A8BBA3?style=flat-square&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
+<br/>
 
 <a href="https://linkedin.com/in/zefri-al-rizqullah-437680335">
-<img src="https://img.shields.io/badge/Zefri_Al_Rizqullah-A2D2DF?style=flat-square&logoColor=0D1117"/>
+<code>Zefri Al Rizqullah</code>
 </a>
 
 <br/><br/>
 
-<sub>
-Instagram &nbsp;&nbsp; • &nbsp;&nbsp;
-Email &nbsp;&nbsp; • &nbsp;&nbsp;
-LinkedIn
-</sub>
-
-</div>
+<sub>Let's connect</sub>
 
 <br/><br/>
+
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+<sub>Click an icon to connect ↗</sub>
+
+<br/><br/>
+
+</div>
 
 ---
 

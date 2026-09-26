@@ -81,17 +81,17 @@ Student College Mulawarman University
 
 <tr>
 <td><b>Role</b></td>
-<td>Mahasiswa Universitas Mulawarman</td>
+<td>University Mulawarman</td>
 </tr>
 
 <tr>
 <td><b>Program</b></td>
-<td>Sistem Informasi</td>
+<td>Information System</td>
 </tr>
 
 <tr>
 <td><b>Status</b></td>
-<td>Building • Learning • College</td>
+<td>Student College</td>
 </tr>
 
 <tr>

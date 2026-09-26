@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:789DBC,35:A2D2DF,70:A8BBA3,100:F6EACB&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="./img/hero.gif" width="100%" alt="Zefri Al Rizqullah"/>
+<img src="./img/hero.gif" width="20%" alt="Zefri Al Rizqullah"/>
 
 <h2>@zecodee</h2>
 
@@ -383,7 +383,7 @@ Instagram · Email · Professional Network
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=789DBC&center=true&vCenter=true&width=700&height=55&lines=Thank+you+for+visiting!;See+you+around+👋🏻"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=789DBC&center=true&vCenter=true&width=700&height=55&lines=Thank+you+for+visiting!;See+you+around"
 alt="Closing Message"
 />
 

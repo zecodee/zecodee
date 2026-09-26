@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:789DBC,35:A2D2DF,70:A8BBA3,100:F6EACB&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="./img/img_zefry.png" width="125" alt="Zefri Al Rizqullah"/>
+<img src="./img/hero.gif" width="100%" alt="Zefri Al Rizqullah"/>
 
 <h2>@zecodee</h2>
 
@@ -57,7 +57,7 @@ Student College Mulawarman University
 </p>
 
 <p align="center">
-*Turning ideas into real projects*
+<i>Turning ideas into real projects</i>
 </p>
 
 </td>
@@ -305,13 +305,17 @@ alt="Zefri's GitHub Contribution Snake"
 
 ---
 
+<img src="./img/konektivity.gif" width="100%" alt="Geometry Animation"/>
+
+---
+
 <!-- ==================== CONNECT ==================== -->
 
 <h2>🤝 Let's Connect</h2>
 
 *Find me around the internet.*
 
-<br/><br/><br/>
+<br/>
 
 <div align="center">
 
@@ -335,7 +339,7 @@ height="58"
 alt="Instagram, Gmail and LinkedIn"
 />
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- CLICKABLE SOCIAL BUTTONS -->
 
@@ -366,10 +370,6 @@ alt="LinkedIn"
 Instagram · Email · Professional Network
 </sub>
 
-<br/><br/><br/>
-
-<code>zecodee@github ~ $ waiting-for-your-message...</code>
-
 <br/><br/>
 
 </div>
@@ -383,14 +383,14 @@ Instagram · Email · Professional Network
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=789DBC&center=true&vCenter=true&width=700&height=55&lines=Thank+you+for+visiting!;Keep+learning.+Keep+building.;See+you+around+%F0%9F%91%8B"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1200&color=789DBC&center=true&vCenter=true&width=700&height=55&lines=Thank+you+for+visiting!;See+you+around+👋🏻"
 alt="Closing Message"
 />
 
 <br/>
 
 <p>
-<i>Turning ideas into real projects, one commit at a time.</i>
+<i>Turning ideas into real projects.</i>
 </p>
 
 <br/>

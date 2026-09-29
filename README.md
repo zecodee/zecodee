@@ -110,11 +110,11 @@ Student College Mulawarman University
 
 <p align="center">
 
-<a href="https://PORTFOLIO-ANDA.com">
+<a href="https://coming-soon-one-phi-44.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-789DBC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://LINK-CV-ANDA.com">
+<a href="https://coming-soon-one-phi-44.vercel.app/">
 <img src="https://img.shields.io/badge/CV-View_My_CV-A8BBA3?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
